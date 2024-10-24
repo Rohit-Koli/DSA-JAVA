@@ -1,4 +1,4 @@
-package com.searchingAlgos.problems;
+package com.sortingAlgos;
 
 public class SelectionSort {
 	public static int[] selectionSortSolution(int arr[]) {
